@@ -1,0 +1,10 @@
+[package]
+name = "tdkrekord"
+version = "0.0.1"
+edition = "2024"
+description = "The KING said, \"It's time for ascension. Hear my words.\""
+authors = ["potistudio <potistudio@proton.me>"]
+license = "MIT"
+publish = false
+
+[dependencies]
